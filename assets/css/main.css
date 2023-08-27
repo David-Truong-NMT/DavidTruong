@@ -3820,7 +3820,7 @@ input, select, textarea {
 			color: rgba(255, 255, 255, 0.35);
 			display: block;
 			font-size: 0.6em;
-			font-weight: bold;
+			font-weight: 900;
 			letter-spacing: 0.25em;
 			line-height: 1.75;
 			outline: 0;
